@@ -1,0 +1,32 @@
+.imagem-carousel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.texto-cor-especial {
+    color: #8D0606!important;
+}
+
+.btn-cor-especial {
+    background-color: #8D0606;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: #8D0606!important;
+}
+
+.card-largura {
+    width: 18rem;
+}
+
+.card-imagem-posicao {
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 60%;
+}
